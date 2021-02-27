@@ -1,23 +1,24 @@
-// TFN DESIGN SYSTEM <<--THE FRONTEND NINJA DS->> //
+```TFN DESIGN SYSTEM
+THE FRONTEND NINJA DS Was crafted baded on the "Atomic Design Model"
+```
 
-TFN DESIGN SYSTEM - Was crafted baded on the "Atomic Design Model"
+``` Atomic Design ?
+Atomic Design provides a clear methodology for crafting design systems that promote consistency and scalability. 
+Without being a linear process, we can adopt the practices that best fit our needs.
+```
 
-➡ Atomic Design ?
-
-Atomic Design provides a clear methodology for crafting design systems that promote consistency and scalability. Without being a linear process, we can adopt the practices that best fit our needs.
-
-➡ Atoms
-
+``` Atoms
 Atoms can include more abstract elements like color, text styles or icons.
+```
 
-➡ Molecules / Components
-
-
+``` Molecules / Components
 Molecules, Components are groups of atoms bonded together to form a button, an input or a form label.
+```
 
-➡ Organisms
-
+``` Organisms
 Organisms are groups of molecules, compoentents joined together to form a relatively complex, distinct section of an interface, like a header, footer or a card.
+```
+
 
 What 'TFN DS' covers?
 
@@ -30,6 +31,12 @@ Benfits of TFN DS ?
 How to use ?
 
 - Refer this TFN DS global ➡ 📁 in your project theme folder where you can customize as per your needs, as well trying to make much simpler Design system to use and expand in large scale applications
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 global/
 |
