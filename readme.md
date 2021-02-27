@@ -2,23 +2,20 @@
 
 TFN DESIGN SYSTEM - Was crafted baded on the "Atomic Design Model"
 
-// ➡ Atomic Design ?
-//---------------------------------
+➡ Atomic Design ?
 
 Atomic Design provides a clear methodology for crafting design systems that promote consistency and scalability. Without being a linear process, we can adopt the practices that best fit our needs.
 
-// ➡ Atoms
-//---------------------------------
+➡ Atoms
 
 Atoms can include more abstract elements like color, text styles or icons.
 
-// ➡ Molecules / Components
-//---------------------------------
+➡ Molecules / Components
+
 
 Molecules, Components are groups of atoms bonded together to form a button, an input or a form label.
 
-// ➡ Organisms
-//---------------------------------
+➡ Organisms
 
 Organisms are groups of molecules, compoentents joined together to form a relatively complex, distinct section of an interface, like a header, footer or a card.
 
