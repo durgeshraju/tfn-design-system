@@ -12,7 +12,6 @@ Atoms can include more abstract elements like color, text styles or icons.
 
 ➡ Molecules / Components
 
-
 Molecules, Components are groups of atoms bonded together to form a button, an input or a form label.
 
 ➡ Organisms
