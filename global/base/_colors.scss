@@ -4,3 +4,77 @@ Our color palette is a selection of colors that work together to create consiste
 
 // Color palette 🎨
 //---------------------------------
+
+// Brand Colors
+
+$c-palette:(
+    //-- Primary color & weight
+   "c-primary" : (
+        Base : #002878,
+        p-800 : #003192,
+        p-700: #0340bb,
+        p-600: #004ce3,
+        p-500: #0055ff,
+        p-400: #2870ff,
+        p-300: #4f89ff,
+        p-200: #83acff,
+        p-100: #acc8ff,
+        p-50: #cedeff,
+        p-25: #e7efff
+    ),    
+    
+    //-- Secondary color & weight
+    "c-secondary" : (
+        Base : #DF4E00,
+        s-800 : #E86A00,
+        s-700: #EE7900,
+        s-600: #EE7900,
+        s-500: #F48900,
+        s-400: #F9A425,
+        s-300: #FAB44C,
+        s-200: #FBCA7F,
+        s-100: #FDDFB1,
+        s-50: #FEF2E0,
+        s-25: #FEF7ED
+    ),
+    
+    //-- Grey color & weight
+
+    "c-grey" : (
+        Base : #0F1825,
+        g-800 : #192638,
+        g-700: #374253,
+        g-600: #596579,
+        g-500: #7B8698,
+        g-400: #A7AFBC,
+        g-300: #D0D7E2,
+        g-200: #E6EAF0,
+        g-100: #F7F9FC,
+        g-50: #FAFBFC
+    ),
+
+    //-- Base colors
+
+    "c-white": (
+        Base: #ffffff
+    ),
+    
+    "c-black": (
+        Base: #000000
+    ),
+
+    //-- Acent colors
+    "c-info": (
+        Base: #56C568
+    ),
+
+    "c-success": (
+        Base: #56C568
+    ),
+    "c-error": (
+        Base: #EB5757
+    ),
+    "c-warning": (
+        Base: #FFC400
+    )    
+);
